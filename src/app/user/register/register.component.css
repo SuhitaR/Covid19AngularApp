@@ -26,7 +26,7 @@ a {
 	padding-top: 13px;
 	text-align: center;
   }
-  #signup {
+  #signin {
 	color: #ec5946;
 	font-family: "Raleway", sans-serif;
 	font-size: 10pt;
@@ -73,5 +73,6 @@ a {
     #first-row{
       padding-top: 20px;
     }
+    
  
   *, *::before, *::after {box-sizing: border-box;}
